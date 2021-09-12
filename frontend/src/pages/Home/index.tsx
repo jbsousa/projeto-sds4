@@ -73,12 +73,6 @@ const Home = () => {
                         <h5 className="card-title">Heroku</h5>
                     </div>
                 </div>
-                <div className="card col-sm-2 m-1">
-                    <SiPostman className="card-img-top py-2" size="75" />
-                    <div className="card-body">
-                        <h5 className="card-title">Postman</h5>
-                    </div>
-                </div>
             </div>
             <Footer />
         </>
