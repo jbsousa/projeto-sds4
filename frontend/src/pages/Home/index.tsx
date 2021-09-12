@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 import {
     SiJava, SiTypescript, SiSpring,
     SiPostgresql, SiBootstrap, SiNetlify,
-    SiPostman
 } from "react-icons/si";
 import { GrReactjs, GrHeroku } from "react-icons/gr";
 
