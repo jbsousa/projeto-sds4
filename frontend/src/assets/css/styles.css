@@ -31,3 +31,20 @@ html, body {
 .text-primary {
     color: var(--color-primary) !important;
 }
+
+.card {
+    transition: transform 0.2s ease;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5);
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 1.5em;
+    background: #fff;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .table-hover > tbody > tr:hover{
+    --bs-table-hover-color: var(--color-primary);
+  }
