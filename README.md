@@ -4,14 +4,11 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/repo-size/jbsousa/projeto-sds4">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcosjcs/vendas">
-  
-  <a>
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jbsousa/projeto-sds4">
-  </a>
-
+   
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jbsousa/projeto-sds4">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/languages/top/jbsousa/projeto-sds4?color=red">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jbsousa/projeto-sds4?color=yellow">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jbsousa/projeto-sds4">
 </p>
 
 <p align="center">
