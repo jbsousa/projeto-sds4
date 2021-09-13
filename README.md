@@ -28,7 +28,7 @@ A aplicação consiste em um dashboard de vendas, onde os dados são coletados d
 
 ![Layout 1](/prints/Layout-1_HomePage.png "Home Page")
 
-![Layout 2](/prints/Layout-2_Dashboard.png "Home Page")
+![Layout 2](/prints/Layout-2_Dashboard.png "Dashboard")
 
 ## 📄 Modelo conceitual
 ![Modelo Conceitual](https://github.com/devsuperior/bds-assets/raw/main/sds/sds3-mc.png)
